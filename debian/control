@@ -1,0 +1,13 @@
+Source: blankon-avatar
+Section: misc
+Priority: optional
+Maintainer: BlankOn Developers <blankon-dev@googlegroups.com>
+Build-Depends: debhelper (>= 7.0.50~)
+Standards-Version: 3.9.4
+
+Package: blankon-avatar
+Architecture: all
+Depends: ${misc:Depends}, manokwari-theme-greeter
+Provides: lightdm-theme
+Description: BlankOn avatar login screen
+ Avatar for Manokwari Greeter, developed by BlankOn project.
