@@ -1,3 +1,9 @@
+blankon-avatar (0.5) tambora; urgency=medium
+
+  * Rebuild structure directory
+
+ -- ”Mijortsa” <azis.astrojim@surabaya.di.blankon.in>  Wed, 01 Apr 2015 17:10:18 +0700
+
 blankon-avatar (0.4) tambora; urgency=medium
 
   * Upstream release
