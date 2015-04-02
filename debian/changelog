@@ -1,3 +1,9 @@
+blankon-avatar (0.6) tambora; urgency=low
+
+  * Rebuild 
+
+ -- Mahyuddin <yudi.al@gmail.com>  Thu, 02 Apr 2015 21:10:16 +0700
+
 blankon-avatar (0.5) tambora; urgency=medium
 
   * Rebuild structure directory
