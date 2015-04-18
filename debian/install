@@ -1,11 +1,4 @@
 .face /etc/skel/
-audacious.desktop /etc/skel/Desktop
-chromium.desktop /etc/skel/Desktop
-gimp.desktop /etc/skel/Desktop
-gnome-calculator.desktop /etc/skel/Desktop
-gnome-terminal.desktop /etc/skel/Desktop
-inkscape.desktop /etc/skel/Desktop
-libreoffice-startcenter.desktop /etc/skel/Desktop
-org.gnome.Nautilus.desktop /etc/skel/Desktop
-org.gnome.Screenshot.desktop /etc/skel/Desktop
-pidgin.desktop /etc/skel/Desktop
+*.desktop /etc/skel/Desktop
+audacious/* /etc/skel/.config/audacious
+Templates/* /etc/skel/Templates

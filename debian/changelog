@@ -1,3 +1,11 @@
+blankon-avatar (0.7) tambora; urgency=low
+
+  * Added :
+    - audacious config
+    - Templates Text Documents
+
+ -- Mijortsa <azis.astrojim@surabaya.di.blankon.in>  Sat, 18 Apr 2015 20:38:59 +0700
+
 blankon-avatar (0.6) tambora; urgency=low
 
   * Rebuild 
