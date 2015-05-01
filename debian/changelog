@@ -1,3 +1,11 @@
+blankon-avatar (0.8) tambora; urgency=low
+
+  * Replace .face with avatar-default stock Tebu
+  * Debian: added gsettings-override
+  * Fixed *.desktop
+
+ -- Mahyuddin <yudi.al@gmail.com>  Fri, 01 May 2015 23:44:35 +0700
+
 blankon-avatar (0.7) tambora; urgency=low
 
   * Added :
