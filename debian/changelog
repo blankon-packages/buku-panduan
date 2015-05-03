@@ -1,3 +1,9 @@
+blankon-avatar (0.9) tambora; urgency=low
+
+  * Added gsettings-override line 12
+
+ -- Mijortsa <azis.astrojim@surabaya.di.blankon.in>  Mon, 04 May 2015 00:16:06 +0700
+
 blankon-avatar (0.8) tambora; urgency=low
 
   * Replace .face with avatar-default stock Tebu
