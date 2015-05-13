@@ -1,3 +1,9 @@
+blankon-avatar (1.1) tambora; urgency=medium
+
+  * Drop gsettings 
+
+ -- Mahyuddin <yudi.al@gmail.com>  Wed, 13 May 2015 22:47:42 +0700
+
 blankon-avatar (1.0) tambora; urgency=low
 
   * Revisi gsettings-override line 12 symbols " to '
