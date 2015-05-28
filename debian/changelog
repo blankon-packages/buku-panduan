@@ -1,3 +1,12 @@
+blankon-avatar (1.2) tambora; urgency=low
+
+  * debian/control:
+    - Drop Depends manokwari-theme-greeter
+    - Drop Provides section
+    - Change Descriptions
+
+ -- Mahyuddin <yudi.al@gmail.com>  Thu, 28 May 2015 18:28:39 +0700
+
 blankon-avatar (1.1) tambora; urgency=medium
 
   * Drop gsettings 
