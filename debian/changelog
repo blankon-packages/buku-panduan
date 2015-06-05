@@ -1,3 +1,9 @@
+blankon-avatar (1.3) tambora; urgency=low
+
+  * Add gnome-control-center in desktop
+
+ -- princeofgiri <princeofgiri@di.blankon.in>  Fri, 05 Jun 2015 23:04:31 +0700
+
 blankon-avatar (1.2) tambora; urgency=low
 
   * debian/control:
