@@ -1,3 +1,9 @@
+blankon-avatar (1.5) tambora; urgency=medium
+
+  * Changes web browser to firefox
+
+ -- Syai Mif <syaimif@di.blankon.in>  Thu, 16 Jun 2016 11:17:56 +0700
+
 blankon-avatar (1.4) tambora; urgency=low
 
   * Change .face
