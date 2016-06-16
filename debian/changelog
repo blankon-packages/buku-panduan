@@ -1,3 +1,9 @@
+blankon-avatar (1.7) tambora; urgency=medium
+
+  * Fix firefox on docker 
+
+ -- dotovr <dotovr@preko>  Fri, 17 Jun 2016 01:39:39 +0700
+
 blankon-avatar (1.6) tambora; urgency=medium
 
   * Change name icon in firefox.dekstop
