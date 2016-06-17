@@ -1,4 +1,3 @@
-.face /etc/skel/
 *.desktop /etc/skel/Desktop
 audacious/* /etc/skel/.config/audacious
 Templates/* /etc/skel/Templates
