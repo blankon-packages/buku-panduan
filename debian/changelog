@@ -1,3 +1,9 @@
+blankon-avatar (1.11) tambora; urgency=medium
+
+  * Change .face for #207
+
+ -- Syai Mif <syaimif@di.blankon.in>  Thu, 30 Jun 2016 15:27:24 +0700
+
 blankon-avatar (1.10) tambora; urgency=medium
 
   * Add .face
