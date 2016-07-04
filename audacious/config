@@ -1,6 +1,7 @@
 
 [audacious]
-repeat=TRUE
+repeat=FALSE
+show_interface=TRUE
 
 [audgui]
 equalizer_win=554,265,255,211
@@ -13,6 +14,9 @@ player_y=281
 
 [gtkui-layout]
 item_count=0
+
+[notify]
+actions=FALSE
 
 [statusicon]
 close_to_tray=TRUE

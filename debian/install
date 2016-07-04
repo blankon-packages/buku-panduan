@@ -2,3 +2,4 @@
 *.desktop /etc/skel/Desktop
 audacious/* /etc/skel/.config/audacious
 Templates/* /etc/skel/Templates
+volumeicon/* /etc/skel/.config/volumeicon
