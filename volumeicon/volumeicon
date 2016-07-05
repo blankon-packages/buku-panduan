@@ -4,14 +4,14 @@ decibel_scale=false
 
 [Notification]
 show_notification=true
-notification_type=0
+notification_type=1
 
 [StatusIcon]
 stepsize=5
 onclick=gnome-control-center sound
 theme=Default
 use_panel_specific_icons=false
-lmb_slider=false
+lmb_slider=true
 mmb_mute=false
 use_horizontal_slider=false
 show_sound_level=false

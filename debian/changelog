@@ -1,3 +1,9 @@
+blankon-avatar (1.14) tambora; urgency=medium
+
+  * use notify-osd indicator OSD volumeicon
+
+ -- Mijortsa <mijortsa@localhost>  Tue, 05 Jul 2016 13:08:35 +0700
+
 blankon-avatar (1.13) tambora; urgency=medium
 
   * added config volumeicon
