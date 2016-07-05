@@ -1,3 +1,9 @@
+blankon-avatar (1.15) tambora; urgency=medium
+
+  * enabled hotkey
+
+ -- Mijortsa <mijortsa@localhost>  Tue, 05 Jul 2016 22:09:15 +0700
+
 blankon-avatar (1.14) tambora; urgency=medium
 
   * use notify-osd indicator OSD volumeicon
