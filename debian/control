@@ -1,12 +1,12 @@
-Source: blankon-avatar
+Source: blankon-panduan
 Section: misc
 Priority: optional
 Maintainer: BlankOn Developers <blankon-dev@googlegroups.com>
 Build-Depends: debhelper (>= 7.0.50~)
 Standards-Version: 3.9.4
 
-Package: blankon-avatar
+Package: blankon-panduan
 Architecture: all
-Depends: ${misc:Depends}
-Description: BlankOn avatar default
- BlankOn avatar default.
+Depends: ${misc:Depends}, evince
+Description: BlankOn Panduan BlankOn X Tambora
+ BlankOn Panduan BlankOn X Tambora

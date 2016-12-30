@@ -1,9 +1,0 @@
-#!/usr/bin/env xdg-open
-
-[Desktop Entry]
-Name=Setting
-Name[id]=Pengaturan Destop
-Exec=gnome-control-center
-Icon=applications-system
-Terminal=false
-Type=Application

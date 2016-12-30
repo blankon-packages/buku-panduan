@@ -1,5 +1,3 @@
-.face /etc/skel
-*.desktop /etc/skel/Desktop
-audacious/* /etc/skel/.config/audacious
-Templates/* /etc/skel/Templates
-volumeicon/* /etc/skel/.config/volumeicon
+*.pdf /usr/share/buku-panduan/
+*.desktop /us/share/applications/
+

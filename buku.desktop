@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=BlankOn Tutorial
+Name[id]=Buku Panduan BlankOn
+Comment=BlankOn Book
+Comment[id]=Buku petunjuk penggunaan BlankOn
+Exec=evince /usr/share/blankon-panduan/buku-panduan-tambora.pdf
+Icon=/usr/share/pixmaps/gnome-news.png
+Terminal=false
+Type=Application
+Categories=GNOME;GTK;Core;Documentation;
+StartupNotify=true
