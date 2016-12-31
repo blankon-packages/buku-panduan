@@ -8,5 +8,5 @@ Exec=evince /usr/share/blankon-panduan/buku-panduan-tambora.pdf
 Icon=/usr/share/pixmaps/gnome-news.png
 Terminal=false
 Type=Application
-Categories=GNOME;GTK;Core;Documentation;
+Categories=GNOME;GTK;Core;Documentation;Utility;
 StartupNotify=true
